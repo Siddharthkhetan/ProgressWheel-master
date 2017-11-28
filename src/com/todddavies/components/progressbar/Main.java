@@ -26,6 +26,9 @@ public class Main extends Activity {
     private boolean wasSpinning = false;
     private SeekBar seekBarProgress;
     private Button btnSpin, btnIncrement, btnRandom;
+	private ProgressWheel pwOne;
+	private ProgressWheel pwOne;
+	int a= 10;
 	
 	@Override
     public void onCreate(Bundle savedInstanceState) {
